@@ -4,7 +4,7 @@ $(document).ready(function(){
     var person2Input = $("input#person2").val();
     var animalInput = $("input#animal").val();
     var exclamationInput = $("input#exclamation").val();
-    var varbInput = $("input#verb").val();
+    var verbInput = $("input#verb").val();
     var nounInput = $("input#noun").val();
 
     $(".person1").text(person1Input);
